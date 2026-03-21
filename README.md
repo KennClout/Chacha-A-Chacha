@@ -91,6 +91,13 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
 <div align="center">
-<sub>If you'd like to support my work, you can buy me a coffee via M-Pesa: <b>0711175616</b></sub>
+
+**Got a project in mind? Let's build something great together.**
+
+<a href="https://wa.me/254711175616">
+  <img src="https://img.shields.io/badge/Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<sub>Available for freelance, consulting & collaboration — reach out via <b>+254 711 175 616</b></sub>
 
 </div>
