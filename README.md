@@ -93,6 +93,4 @@
 <div align="center">
 <sub>If you'd like to support my work, you can buy me a coffee via M-Pesa: <b>0711175616</b></sub>
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=flat-square&logo=kofi&logoColor=white)](https://ko-fi.com/chachaalex)
-
 </div>
