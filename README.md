@@ -88,8 +88,6 @@
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
-
 <div align="center">
 
 **Got a project in mind? Let's build something great together.**
@@ -101,3 +99,7 @@
 <sub>Available for freelance, consulting & collaboration — reach out via <b>+254 711 175 616</b></sub>
 
 </div>
+
+<br/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
