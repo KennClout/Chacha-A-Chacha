@@ -16,28 +16,28 @@
 
 ## Tech Stack
 
-### Languages & Frameworks
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,flask,nodejs,javascript,c&theme=dark" />
   </a>
 </p>
 
-### Frontend
+<h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind,materialui,figma&theme=dark" />
   </a>
 </p>
 
-### Databases & Infrastructure
+<h3 align="center">Databases & Infrastructure</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,redis,nginx,docker,kubernetes,gcp&theme=dark" />
   </a>
 </p>
 
-### Tools
+<h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,linux,bash,github&theme=dark" />
